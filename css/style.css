@@ -24,3 +24,7 @@ header{
     min-height: 200px;
     /* test */
 }
+
+.__card{
+    min-height: 100px;
+}
