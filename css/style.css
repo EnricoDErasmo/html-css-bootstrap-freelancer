@@ -3,16 +3,14 @@
     /* test */
 }
 
-header{
-    color: white;
-}
-
 .__back-nav{
     background-color: #2c3e50;
 }
 
-.__back-header{
+.__back-acqua{
     background-color: #1abc9c;
+
+    color: white;
 }
 
 .__nav-bar{
@@ -28,3 +26,5 @@ header{
 .__card{
     min-height: 100px;
 }
+
+
