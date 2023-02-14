@@ -19,4 +19,25 @@
     border: none;
 }
 
+.__back-dark-blue{
+    background-color: #3a546d;
+
+    color: white;
+}
+
+#__rounded-link{
+    padding: 4px 12px;
+
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+#__link-color{
+    color: #1abc9c;
+}
+
+#__copyright{
+    font-size: 0.7em;
+}
+
 
