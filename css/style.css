@@ -4,11 +4,19 @@
 
 .__back-acqua{
     background-color: #1abc9c;
-
+    color: white;
 }
 
-.__back-foot{
-    background-color: #3a546d;
+.__col-inner{
+    min-height: 200px;
+
+    background-color: bisque;
+}
+
+#__my-btn{
+    background-color: #1abc9c;
+
+    border: none;
 }
 
 
