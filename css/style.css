@@ -38,17 +38,18 @@
 /* /Separator */
 
 
-.__col-inner{
-    min-height: 200px;
-
-    background-color: bisque;
-}
+/* Section 3 */
 
 #__my-btn{
     background-color: #1abc9c;
 
     border: none;
 }
+
+/* /Section 3 */
+
+
+/* Footer */
 
 .__back-dark-blue{
     background-color: #3a546d;
@@ -70,5 +71,7 @@
 #__copyright{
     font-size: 0.7em;
 }
+
+/* /Footer */
 
 
