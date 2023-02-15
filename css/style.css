@@ -10,29 +10,13 @@
 }
 
 .__img-container{
-    width: 200px;
+    max-width: 200px;
 }
-
 
 /* Separator */
 
-.__star-container{
-    max-width: 300px;
-}
-
-.__star-container .__rows-star{
-    height: 3px;
-    min-width: 120px;
-    
-    border-radius: 20px;
-}
-
-.__star-container .__rows-star.__row-w{
-    background-color: white;
-}
-
-.__star-container .__rows-star.__row-b{
-    background-color: black;
+.__rows-star{
+   width: 10%;
 }
 
 /* /Separator */
